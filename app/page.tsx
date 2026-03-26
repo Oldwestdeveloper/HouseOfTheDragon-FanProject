@@ -139,7 +139,7 @@ export default function Home() {
             Projetado e codificado por
           </p>
           <h3 className="text-2xl font-got text-white hover:text-red-600 transition-all duration-500 cursor-default tracking-widest">
-            CodeWrangler-DevGui
+            OldWestDeveloper
           </h3>
 
           <div className="flex justify-center gap-8 mt-6">
