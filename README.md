@@ -2,8 +2,7 @@
 
 Uma aplicação web interativa e responsiva dedicada a catalogar os majestosos dragões de Westeros, focada no período da Dança dos Dragões. Este projeto foi construído com as tecnologias mais modernas do ecossistema React para entregar uma experiência imersiva e de alta performance.
 
-🌐 **[Acesse o projeto online aqui](https://oldwestdeveloper-hotd.vercel.app/)**
-<a href="https://oldwestdeveloper-hotd.vercel.app/">Acesse o projeto online aqui</a>
+🌐 <a href="https://oldwestdeveloper-hotd.vercel.app/" target="_blanck">Acesse o projeto online aqui</a>
 
 ---
 
