@@ -41,7 +41,7 @@ Siga os passos abaixo para rodar a enciclopédia na sua máquina:
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/CodeWrangler-DevGui/HouseOfTheDragon-FanProject.git
+git clone https://github.com/OldWestDeveloper/HouseOfTheDragon-FanProject.git
    ```
 2. Acesse a pasta do projeto:
 ```bash
@@ -59,9 +59,9 @@ npm run dev
 
 ---
 ✒️ Autor
-Desenvolvido com fogo e sangue por **CODEWRANGLER-DEVGUI**.
+Desenvolvido com fogo e sangue por **OldWestDeveloper**.
 
-GitHub: [@CodeWrangler-DevGui](https://github.com/CodeWrangler-DevGui)
+GitHub: [@OldWestDeveloper](https://github.com/OldWestDeveloper)
 
 LinkedIn: [Guilherme Araujo](https://www.linkedin.com/in/guilherme-araujo-lacerda)
 
